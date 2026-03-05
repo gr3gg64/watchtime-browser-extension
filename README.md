@@ -4,7 +4,7 @@ A lightweight browser extension that tracks how much time you spend on every web
 
 **WatchTime** helps you understand your browsing habits with simple visual insights while keeping everything completely private.
 
-*Built for personal use but happy to share — hope you find it useful!*
+*Built for personal use but happy to share - hope you find it useful!*
 
 ---
 
